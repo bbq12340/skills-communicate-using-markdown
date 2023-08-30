@@ -4,3 +4,6 @@ I made a new markdown file!
 ```Python
 print("Hello, My name is Jay!")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
